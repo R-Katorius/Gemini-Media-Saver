@@ -1,4 +1,4 @@
-# Gemini Media Saver (SVG Edition)
+# Gemini Media Saver
 
 [![Install](https://img.shields.io/badge/Install-Direct_Link-green?style=for-the-badge&logo=tampermonkey)](https://github.com/R-Katorius/Gemini-Media-Saver/raw/refs/heads/main/Gemini_Media_Saver.user.js)
 
