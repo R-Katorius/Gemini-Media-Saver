@@ -32,13 +32,13 @@ A lightweight and efficient Tampermonkey userscript designed to enhance your Goo
   <img src="Screenshots/txt-2.png" width="49%" alt="Save Text Interface" />
 </p>
 
-### 1. Saving Photo
+### 2. Saving Photo
 <p align="left">
   <img src="Screenshots/photo-1.png" width="49%" alt="Save Photo Interface" />
   <img src="Screenshots/photo-2.png" width="49%" alt="Save Text Interface" />
 </p>
 
-### 2. Automatic File Organization
+### 3. Automatic File Organization
 <p align="left">
   <img src="Screenshots/Folder.png" width="60%" alt="Folder Structure" />
 </p>
