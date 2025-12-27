@@ -21,7 +21,7 @@ A lightweight and efficient Tampermonkey userscript designed to enhance your Goo
     
 -   **Precise Timestamps:** Automatically generates formatted timestamps for filenames to ensure easy sorting.
 
-    ## 📸 Screenshots
+## 📸 Screenshots
 
 <details>
 <summary>Click to view the interface and folder structure</summary>
