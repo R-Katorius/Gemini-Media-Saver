@@ -26,16 +26,22 @@ A lightweight and efficient Tampermonkey userscript designed to enhance your Goo
 <details>
 <summary>Click to view the interface and folder structure</summary>
 
-### 1. Saving Photos and Text
-The script adds native-styled buttons directly into the Gemini interface. After saving, the button state changes to "Done" or "Saved".
+### 1. Saving Text
+<p align="left">
+  <img src="Screenshots/txt-1.png" width="49%" alt="Save Photo Interface" />
+  <img src="Screenshots/txt-2.png" width="49%" alt="Save Text Interface" />
+</p>
 
-![Save Interface - Photo](screenshots/photo-1.png)
-![Save Interface - Text](screenshots/txt-2.png)
+### 1. Saving Photo
+<p align="left">
+  <img src="Screenshots/photo-1.png" width="49%" alt="Save Photo Interface" />
+  <img src="Screenshots/photo-2.png" width="49%" alt="Save Text Interface" />
+</p>
 
 ### 2. Automatic File Organization
-All downloads are automatically routed to a dedicated `/Gemini` folder, separate from your main downloads.
-
-![Folder Structure](screenshots/Folder.png)
+<p align="left">
+  <img src="Screenshots/Folder.png" width="60%" alt="Folder Structure" />
+</p>
 
 </details>
 
