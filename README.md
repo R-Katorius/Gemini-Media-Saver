@@ -20,7 +20,24 @@ A lightweight and efficient Tampermonkey userscript designed to enhance your Goo
 -   **Native UI:** Styled with Google's design language (Google Sans, blur effects) for a seamless look.
     
 -   **Precise Timestamps:** Automatically generates formatted timestamps for filenames to ensure easy sorting.
-    
+
+    ## 📸 Screenshots
+
+<details>
+<summary>Click to view the interface and folder structure</summary>
+
+### 1. Saving Photos and Text
+The script adds native-styled buttons directly into the Gemini interface. After saving, the button state changes to "Done" or "Saved".
+
+![Save Interface - Photo](screenshots/photo-1.png)
+![Save Interface - Text](screenshots/txt-2.png)
+
+### 2. Automatic File Organization
+All downloads are automatically routed to a dedicated `/Gemini` folder, separate from your main downloads.
+
+![Folder Structure](screenshots/Folder.png)
+
+</details>
 
 ## 🚀 Installation
 
