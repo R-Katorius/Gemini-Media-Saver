@@ -3,11 +3,11 @@
 > [!CAUTION]
 > **COMPATIBILITY NOTICE:** This script is optimized and guaranteed to work **ONLY in Mozilla Firefox**. Users of Chrome, Edge, or other Chromium-based browsers may encounter issues with buttons not appearing due to "TrustedHTML" security policies.
 
+A lightweight and efficient Tampermonkey userscript designed to enhance your Google Gemini experience by adding one-click save options for generated images and text responses.
+
 [![Install](https://img.shields.io/badge/Install-Direct_Link-green?style=for-the-badge&logo=tampermonkey)](https://github.com/R-Katorius/Gemini-Media-Saver/raw/refs/heads/main/Gemini_Media_Saver.user.js) (Eng)
 
 [![Install](https://img.shields.io/badge/Install-Direct_Link-green?style=for-the-badge&logo=tampermonkey)](https://github.com/R-Katorius/Gemini-Media-Saver/raw/refs/heads/main/Gemini_Media_Saver(Rus).user.js) (Rus)
-
-A lightweight and efficient Tampermonkey userscript designed to enhance your Google Gemini experience by adding one-click save options for generated images and text responses.
 
 ## ✨ Features
 
