@@ -1,5 +1,7 @@
 # Gemini Media Saver (SVG Edition)
 
+[![Install](https://img.shields.io/badge/Install-Direct_Link-green?style=for-the-badge&logo=tampermonkey)]((https://github.com/R-Katorius/Gemini-Media-Saver/raw/refs/heads/main/Gemini_Media_Saver.user.js))
+
 A lightweight and efficient Tampermonkey userscript designed to enhance your Google Gemini experience by adding one-click save options for generated images and text responses.
 
 ## ✨ Features
